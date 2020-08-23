@@ -1,0 +1,12 @@
+.dot {
+  background-color: tomato;
+  display: flex;
+  width: 5px;
+  height: 5px;
+  border-radius: 50%;
+}
+.dot--find {
+  position: absolute;
+  right: 20px;
+  top: 25px;
+}
